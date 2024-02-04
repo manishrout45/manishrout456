@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+
+}
+#heading{
+    color: azure;
+}
+a{
+    color: azure;
+    margin-right: 20px;
+    text-decoration: none;
+}
+#navbar2{
+    height: 60px;
+    background-color: black;
+}
+#paragraph{
+    color: antiquewhite;
+    text-align: center;
+}
